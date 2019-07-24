@@ -1,5 +1,5 @@
 {
-  "name": "skyway-canvas-sample",
+  "name": "skyway-canvas-example",
   "description": "My marvelous Nuxt.js project",
   "version": "1.0.0",
   "author": "fiahfy",
@@ -7,13 +7,13 @@
     "@nuxtjs/dotenv": "^1.3.0",
     "@nuxtjs/vuetify": "^0.5.0",
     "nuxt": "^2.0.0",
-    "skyway-js": "^1.1.19"
+    "skyway-js": "^2.0.1"
   },
   "devDependencies": {
-    "babel-eslint": "^8.2.1",
+    "babel-eslint": "^10.0.2",
     "cross-env": "^5.2.0",
-    "eslint": "^5.0.1",
-    "eslint-config-prettier": "^3.1.0",
+    "eslint": "^6.1.0",
+    "eslint-config-prettier": "^6.0.0",
     "eslint-plugin-prettier": "^3.0.0",
     "eslint-plugin-vue": "^5.0.0",
     "prettier": "^1.15.3"

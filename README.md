@@ -1,4 +1,4 @@
-# skyway-chat-sample
+# skyway-chat-example
 
 > Sharable canvas app with skyway
 
